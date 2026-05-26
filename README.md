@@ -16,32 +16,8 @@ The goal is to support data-driven public health insights and inform prevention 
 
 ## Files in This Repository
 - `ClarityCare P.BI Report.pbix` — Main Power BI report file.
-- `ClarityCare P.BI Screenshot.jpg` — Screenshots of key report page.
+- [ClarityCare P.BI Screenshot](ClarityCare%20P.BI%20Screenshot.jpg) — Screenshot of key report page.
 - `README.md` — Project documentation.
-
-## Dashboard Screenshot
-[ClarityCare P.BI Screenshot](
-### 1. Overview Metrics
-![Overview Metrics](images/overview_metrics.png)
-*Shows total number of countries (101) and total suicide incidence (6.75M).*
-
-### 2. Suicide Incidence by Generation
-![Suicide Incidence by Generation](images/suicide_by_generation.png)
-*Highlights generational differences — Boomers (1.82M) record the highest incidence, followed by Silent and Generation X.*
-
-### 3. Suicide Incidence by Age Group
-![Suicide Incidence by Age Group](images/suicide_by_age.png)
-*Displays age-related patterns — the 35–54 age group shows the highest incidence (1.95M).*
-
-### 4. Suicide Incidence by Sex and Age
-![Suicide Incidence by Sex and Age](images/suicide_by_sex_age.png)
-*Breaks down suicide numbers by sex and age — males (5.19M) account for the majority across all age groups.*
-
-### 5. Key Influencers
-![Key Influencers](images/key_influencers.png)
-*Identifies factors that increase suicide incidence — being male and belonging to the Boomer generation are the strongest influencers.*
-
-*(Replace the filenames above with your actual screenshot names.)*
 
 ## Features of the Dashboard
 - **Global Overview:** Displays total number of countries (101) and total suicide incidence (6.75 M) for quick context.
