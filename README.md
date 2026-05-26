@@ -15,9 +15,8 @@ The goal is to support data-driven public health insights and inform prevention 
   - Being in the **Boomer generation** increases suicide numbers by ~222.
 
 ## Files in This Repository
-- `ClarityCare P.BI Report.pbix` — Main Power BI report file.
+- [ClarityCare P.BI Report.pbix](ClarityCare%20P.BI%20Report.pbix) — Main Power BI report file.
 - [ClarityCare P.BI Screenshot](ClarityCare%20P.BI%20Screenshot.jpg) — Screenshot of key report page.
-- `README.md` — Project documentation.
 
 ## Features of the Dashboard
 - **Global Overview:** Displays total number of countries (101) and total suicide incidence (6.75 M) for quick context.
@@ -37,8 +36,3 @@ The goal is to support data-driven public health insights and inform prevention 
 ## Conclusion
 This Power BI report provides a detailed and interactive view of global suicide patterns, highlighting demographic and generational disparities.  
 By identifying key influencers and high-risk groups, the dashboard supports public health professionals, policymakers, and researchers in understanding suicide trends and designing targeted prevention strategies.
-
-## 📬 Contact
-Created by **Emmanuela Amoah-Adjei**  
-Data Analyst & Public Health Professional  
-London, UK
