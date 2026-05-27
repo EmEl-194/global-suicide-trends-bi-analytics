@@ -6,6 +6,17 @@ The dashboard provides a comprehensive view of demographic risk patterns and hig
 The goal is to support data-driven public health insights and inform prevention strategies.
 
 
+## Tools Used
+Power BI
+
+
+## Key Steps
+- Data cleaning
+- Transformations
+- Analysis
+- Visualisation
+
+
 ## Key Insights
 - **Total suicide incidence:** 6.75M across 101 countries.
 - **Highest-risk generation:** Boomers, accounting for 35.14% of total suicides.
